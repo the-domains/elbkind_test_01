@@ -2,6 +2,7 @@ name: elbkind_test_01
 favicon: null
 layout_spectrum: 0.1136244828812778
 typography_spectrum: 0.7364023874979466
+title: 'Unsere Elbkind Test Site '
 cta:
   domain: null
   bucket: null
