@@ -1,0 +1,28 @@
+name: elbkind_test_01
+favicon: null
+layout_spectrum: 0.1136244828812778
+typography_spectrum: 0.7364023874979466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1278150521684438
+  lightness: 0.5739435376599431
+  saturation: 0.9720262403134257
+  rhythmicContrast: 0.5952122963499278
+purpose: []
