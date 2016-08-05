@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -16,16 +16,16 @@ description: >-
   lacinia tellus a justo egestas, in tristique est tincidunt. In euismod
   dignissim posuere. Sed eu posuere quam. Aenean purus purus, bibendum sed augue
   ac, mollis consequat tellus.
-datePublished: '2016-08-05T13:38:47.606Z'
-dateModified: '2016-08-05T13:38:00.479Z'
+datePublished: '2016-08-05T13:50:59.485Z'
+dateModified: '2016-08-05T13:45:07.799Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-05-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-cra.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-05-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-cra.md
 url: lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-cra/index.html
 _type: Article
 
